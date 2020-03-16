@@ -1,3 +1,6 @@
 A few userscripts I've written for PS over the years.
 
 Mostly just here for my own archival purposes.
+
+I personally use tampermonkey on firefox, so they should definitely work
+on that, but I don't think they use anything that wouldn't be portable.
